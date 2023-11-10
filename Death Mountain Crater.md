@@ -19,10 +19,10 @@ From Fairy Fountain
 ## Chest
 - [ ] Upper Grotto Chest
 ## Deku scrub
-- [ ] Deku Scrub Contain   Price
-- [ ] Deku Scrub Grotto Left  Contain   Price
-- [ ] Deku Scrub Grotto Center Contain   Price
-- [ ] Deku Scrub Grotto Right Contain   Price
+- [ ] Deku Scrub 
+- [ ] Deku Scrub Grotto Left 
+- [ ] Deku Scrub Grotto Center
+- [ ] Deku Scrub Grotto Right
 ## Gold Skulltula
 - [ ] Crate
 - [ ] Bean Patch

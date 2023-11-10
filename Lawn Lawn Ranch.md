@@ -16,9 +16,9 @@ From Tower
 ## Peace of heart
 - [ ] Freestanding Peace of heart
 ## Scrub shop
-- [ ] Deku Scrub Grotto Left  Contain   Price
-- [ ] Deku Scrub Grotto Right  Contain   Price
-- [ ] Deku Scrub Grotto Center  Contain   Price
+- [ ] Deku Scrub Grotto Left 
+- [ ] Deku Scrub Grotto Right 
+- [ ] Deku Scrub Grotto Center 
 ## cow
 - [ ] Stables Left Cow
 - [ ] Stables Right Cow

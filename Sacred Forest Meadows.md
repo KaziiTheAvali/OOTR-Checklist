@@ -14,8 +14,8 @@ From Storm Grotto Grotto
 ## chests
 - [ ] Wolfos Grotto Chest
 ## scrub Shops
-- [ ] Deku Scrub Grotto Front Contains  Price
-- [ ] Deku Scrub Grotto Rear Contains  Price
+- [ ] Deku Scrub Grotto Front
+- [ ] Deku Scrub Grotto Rear
 ## Gold skulltula
 - [ ] Golden skulltula
 ## Wonder Items

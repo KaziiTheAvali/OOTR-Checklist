@@ -27,8 +27,8 @@ From Fairy Fountain
 - [ ] Near Open grotto  Freestanding Peace of heart
 - [ ] Near Domain Freestanding 
 ## Deku Scrubs
-- [ ] Deku Scrub Grotto Front Contain   Price
-- [ ] Deku Scrub Grotto Back Contain   Price
+- [ ] Deku Scrub Grotto Front
+- [ ] Deku Scrub Grotto Back
 ## golden skulltula
 - [ ] Tree
 - [ ] Ladder
@@ -99,4 +99,6 @@ From Fairy Fountain
 - [ ] Front Grass Patch 12
 ## other
 - [ ] Beans Salesman
+## added
+- [ ] 
 # Hints

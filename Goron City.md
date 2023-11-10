@@ -21,9 +21,9 @@ From Scrub Grotto
 - [ ] Maze Center Chest
 - [ ] Maze Right Chest
 ## Scrubs
-- [ ] Deku Scrub Grotto Left Contain   Price
-- [ ] Deku Scrub Grotto Center Contain   Price
-- [ ] Deku Scrub Grotto Right Contain   Price
+- [ ] Deku Scrub Grotto Left
+- [ ] Deku Scrub Grotto Center
+- [ ] Deku Scrub Grotto Right
 ## Golden Skulltula
 - [ ] Center Platform Golden Skulltula
 - [ ] Boulder Maze Golden Skulltula

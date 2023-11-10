@@ -18,11 +18,11 @@ From Deku Theater
 
 # checks
 ## Deku Scrub Sales
-- [ ] Deku Scrub Near Bridge Contains  Price
-- [ ] Deku Scrub Near Deku Theater Left Contains  Price
-- [ ] Deku Scrub Near Deku Theater Right Contains  Price
-- [ ] Deku Scrub Grotto Front Contains  Price
-- [ ] Deku Scrub Grotto Rear Contains  Price
+- [ ] Deku Scrub Near Bridge
+- [ ] Deku Scrub Near Deku Theater Left
+- [ ] Deku Scrub Near Deku Theater Right
+- [ ] Deku Scrub Grotto Front
+- [ ] Deku Scrub Grotto Rear
 ## Golden skulltula
 - [ ] Golden skulltula Bean Patch Near Bridge
 - [ ] Golden skulltula Bean Patch Near Theater

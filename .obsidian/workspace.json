@@ -4,215 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74d91f2e1e428794",
+        "id": "d2c6e9724f9be1e6",
         "type": "tabs",
         "children": [
           {
-            "id": "ecaadf416f48ade6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to use.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7060163362874b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links pocket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ea539a40372aaf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kokiri forest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b8618eb1fbf44b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lost Woods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ecde0ef4f9ae14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sacred Forest Meadows.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e59ac5a013a4cf1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyrule Field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d11f822fe0f75bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Market.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9968c2b1b33c8057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Market.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa09be9c3b1636b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyrule Castle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "928e71beea21d789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lawn Lawn Ranch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0645a2b96535f0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kakarikko Village.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c90b9d784761649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graveyard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36fe07af89ef3df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Death Mountain Trail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee72ac12e3dc3f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goron City.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a4532889a1b6878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Death Mountain Crater.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630dfa879ca25f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zora River.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "837865828b036fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zora's Fountain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c87caf931259f2a",
+            "id": "77fcb14fec67f891",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,19 +20,19 @@
             }
           },
           {
-            "id": "54e11c9799e73b11",
+            "id": "ad624193781d8d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zora's Domain.md",
+                "file": "Gerudo Vally.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zora's Domain.md",
+                "file": "Gerudo Vally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zora's Domain.md",
+                "file": "Gerudo Vally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zora's Domain.md"
+                "file": "Gerudo Vally.md"
               }
             }
           }
@@ -363,28 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54e11c9799e73b11",
+  "active": "ad624193781d8d03",
   "lastOpenFiles": [
-    "Death Mountain Crater.md",
-    "Zora's Domain.md",
-    "Zora's Fountain.md",
-    "Zora River.md",
+    "Goron City.md",
+    "Gerudo Vally.md",
     "Hyrule Castle.md",
-    "Hyrule Field.md",
     "How to use.md",
     "Graveyard.md",
-    "Goron City.md",
-    "Sacred Forest Meadows.md",
-    "temple of time.md",
     "Lake Hylia.md",
-    "Death Mountain Trail.md",
-    "Lawn Lawn Ranch.md",
+    "Zora's Fountain.md",
+    "Zora's Domain.md",
+    "Zora River.md",
+    "Sacred Forest Meadows.md",
     "Market.md",
-    "map.canvas",
-    "Kakarikko Village.md",
-    "Kokiri forest.md",
     "Lost Woods.md",
     "Links pocket.md",
+    "Lawn Lawn Ranch.md",
+    "Kokiri forest.md",
+    "Kakarikko Village.md",
+    "Hyrule Field.md",
+    "Death Mountain Trail.md",
+    "Death Mountain Crater.md",
+    "temple of time.md",
+    "map.canvas",
     "README.md",
     "2023-11-09.md"
   ]

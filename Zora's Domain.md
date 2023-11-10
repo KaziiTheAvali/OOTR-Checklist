@@ -39,3 +39,6 @@ From Fairy Fountain
 ## other
 - [ ] Diving minigame
 - [ ] King Zora Thawed
+## added
+- [ ] 
+# Hints

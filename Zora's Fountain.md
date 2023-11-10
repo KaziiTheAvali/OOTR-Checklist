@@ -49,3 +49,6 @@ From Great Fair Fountain
 - [ ] Jabu Gossip Stone
 ## Other
 - [ ] Great Fairy Fountain Reward
+## Added
+- [ ] 
+# Hints
