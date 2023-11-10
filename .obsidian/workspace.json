@@ -198,9 +198,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "837865828b036fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zorua's Fountain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zorua River.md",
+                "file": "Zorua's Fountain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zorua River.md",
+                "file": "Zorua's Fountain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zorua River.md"
+                "file": "Zorua's Fountain.md"
               }
             }
           }
@@ -327,15 +339,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630dfa879ca25f69",
+  "active": "837865828b036fe2",
   "lastOpenFiles": [
-    "Death Mountain Trail.md",
-    "Goron City.md",
-    "Death Mountain Crater.md",
-    "Zorua River.md",
-    "Graveyard.md",
     "Hyrule Castle.md",
     "How to use.md",
+    "Goron City.md",
+    "Death Mountain Trail.md",
+    "Graveyard.md",
+    "Zorua's Fountain.md",
+    "Zorua River.md",
+    "Death Mountain Crater.md",
     "Lawn Lawn Ranch.md",
     "Market.md",
     "map.canvas",
