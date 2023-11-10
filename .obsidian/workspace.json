@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36fe07af89ef3df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Death Mountain Trail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graveyard.md",
+                "file": "Death Mountain Trail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graveyard.md",
+                "file": "Death Mountain Trail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graveyard.md"
+                "file": "Death Mountain Trail.md"
               }
             }
           }
@@ -279,16 +291,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c90b9d784761649",
+  "active": "36fe07af89ef3df6",
   "lastOpenFiles": [
-    "Hyrule Castle.md",
-    "Graveyard.md",
-    "How to use.md",
-    "Hyrule Field.md",
+    "Sacred Forest Meadows.md",
     "Kakarikko Village.md",
     "Kokiri forest.md",
+    "Hyrule Field.md",
+    "Hyrule Castle.md",
+    "How to use.md",
+    "Graveyard.md",
+    "Death Mountain Trail.md",
     "Market.md",
-    "Sacred Forest Meadows.md",
     "temple of time.md",
     "Lost Woods.md",
     "Lawn Lawn Ranch.md",
