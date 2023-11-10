@@ -90,9 +90,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9968c2b1b33c8057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa09be9c3b1636b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyrule Castle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "928e71beea21d789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lawn Lawn Ranch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0645a2b96535f0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kakarikko Village.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -158,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market.md",
+                "file": "Kakarikko Village.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market.md",
+                "file": "Kakarikko Village.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market.md"
+                "file": "Kakarikko Village.md"
               }
             }
           }
@@ -219,16 +267,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d11f822fe0f75bb6",
+  "active": "0645a2b96535f0ef",
   "lastOpenFiles": [
-    "README.md",
-    "Kokiri forest.md",
     "Hyrule Field.md",
-    "Links pocket.md",
+    "Kakarikko Village.md",
+    "Sacred Forest Meadows.md",
+    "temple of time.md",
+    "Lost Woods.md",
+    "Lawn Lawn Ranch.md",
+    "Kokiri forest.md",
+    "Hyrule Castle.md",
     "How to use.md",
     "Market.md",
-    "Lost Woods.md",
-    "Sacred Forest Meadows.md",
+    "Links pocket.md",
+    "README.md",
     "map.canvas",
     "2023-11-09.md"
   ]
