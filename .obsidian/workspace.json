@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zorua River.md",
+                "file": "Zora River.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,14 +205,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zorua's Fountain.md",
+                "file": "Zora's Fountain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c87caf931259f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lake Hylia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e11c9799e73b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zora's Domain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -278,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zorua's Fountain.md",
+                "file": "Zora's Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zorua's Fountain.md",
+                "file": "Zora's Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zorua's Fountain.md"
+                "file": "Zora's Domain.md"
               }
             }
           }
@@ -339,24 +363,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "837865828b036fe2",
+  "active": "54e11c9799e73b11",
   "lastOpenFiles": [
-    "Hyrule Castle.md",
-    "How to use.md",
-    "Goron City.md",
-    "Death Mountain Trail.md",
-    "Graveyard.md",
-    "Zorua's Fountain.md",
-    "Zorua River.md",
     "Death Mountain Crater.md",
+    "Zora's Domain.md",
+    "Zora's Fountain.md",
+    "Zora River.md",
+    "Hyrule Castle.md",
+    "Hyrule Field.md",
+    "How to use.md",
+    "Graveyard.md",
+    "Goron City.md",
+    "Sacred Forest Meadows.md",
+    "temple of time.md",
+    "Lake Hylia.md",
+    "Death Mountain Trail.md",
     "Lawn Lawn Ranch.md",
     "Market.md",
     "map.canvas",
     "Kakarikko Village.md",
-    "Hyrule Field.md",
-    "Sacred Forest Meadows.md",
     "Kokiri forest.md",
-    "temple of time.md",
     "Lost Woods.md",
     "Links pocket.md",
     "README.md",

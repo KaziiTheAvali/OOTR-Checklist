@@ -1,5 +1,5 @@
 # general info 
-Zorua River is also known as ZR use \[\[Zorua River]] to link here (remove \\ if you coppy and paste)
+Zora River is also known as ZR use \[\[Zora River]] to link here (remove \\ if you coppy and paste)
 # Locations
 ## External Maps
 To Hyrule Field

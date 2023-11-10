@@ -1,5 +1,5 @@
 # general info 
-Zorua's Fountain is also known as ZF use \[\[Zorua's Fountain]] to link here (remove \\ if you coppy and paste)
+Zora's Fountain is also known as ZF use \[\[Zora's Fountain]] to link here (remove \\ if you coppy and paste)
 # Locations
 ## External Maps
 To Zorua's Domain
