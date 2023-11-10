@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c6e9724f9be1e6",
+        "id": "a3fd0016bb3cc164",
         "type": "tabs",
         "children": [
           {
-            "id": "77fcb14fec67f891",
+            "id": "28cff31665f38f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lake Hylia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad624193781d8d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gerudo Vally.md",
+                "file": "Gerudo Fortress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gerudo Vally.md",
+                "file": "Gerudo Fortress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gerudo Vally.md",
+                "file": "Gerudo Fortress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gerudo Vally.md"
+                "file": "Gerudo Fortress.md"
               }
             }
           }
@@ -159,30 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad624193781d8d03",
+  "active": "28cff31665f38f80",
   "lastOpenFiles": [
-    "Goron City.md",
-    "Gerudo Vally.md",
-    "Hyrule Castle.md",
-    "How to use.md",
-    "Graveyard.md",
-    "Lake Hylia.md",
+    "Gerudo Fortress.md",
+    "Market.md",
     "Zora's Fountain.md",
     "Zora's Domain.md",
     "Zora River.md",
+    "temple of time.md",
     "Sacred Forest Meadows.md",
-    "Market.md",
+    "README.md",
     "Lost Woods.md",
+    "map.canvas",
     "Links pocket.md",
     "Lawn Lawn Ranch.md",
+    "Lake Hylia.md",
     "Kokiri forest.md",
     "Kakarikko Village.md",
     "Hyrule Field.md",
+    "How to use.md",
+    "Graveyard.md",
+    "Goron City.md",
+    "Gerudo Vally.md",
     "Death Mountain Trail.md",
     "Death Mountain Crater.md",
-    "temple of time.md",
-    "map.canvas",
-    "README.md",
+    "Hyrule Castle.md",
     "2023-11-09.md"
   ]
 }
