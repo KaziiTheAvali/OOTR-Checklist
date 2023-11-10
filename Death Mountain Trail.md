@@ -58,3 +58,6 @@ From Cow Grotto
 ## Other
 - [ ] Great Fairy Reward
 - [ ] Biggoron
+## Added
+- [ ] 
+# hints
