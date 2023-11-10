@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "630dfa879ca25f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zorua River.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Death Mountain Crater.md",
+                "file": "Zorua River.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Death Mountain Crater.md",
+                "file": "Zorua River.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Death Mountain Crater.md"
+                "file": "Zorua River.md"
               }
             }
           }
@@ -315,19 +327,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a4532889a1b6878",
+  "active": "630dfa879ca25f69",
   "lastOpenFiles": [
-    "Lawn Lawn Ranch.md",
-    "Graveyard.md",
-    "Death Mountain Crater.md",
     "Death Mountain Trail.md",
-    "Hyrule Castle.md",
     "Goron City.md",
+    "Death Mountain Crater.md",
+    "Zorua River.md",
+    "Graveyard.md",
+    "Hyrule Castle.md",
+    "How to use.md",
+    "Lawn Lawn Ranch.md",
     "Market.md",
     "map.canvas",
     "Kakarikko Village.md",
     "Hyrule Field.md",
-    "How to use.md",
     "Sacred Forest Meadows.md",
     "Kokiri forest.md",
     "temple of time.md",
