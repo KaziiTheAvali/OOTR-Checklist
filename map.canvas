@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"0dc433e51bc46a58","x":-120,"y":-560,"width":250,"height":160,"type":"text","text":"You can use this canvas to connect multiple documents if you do not want to use the node graph"}
+	],
+	"edges":[]
+}
