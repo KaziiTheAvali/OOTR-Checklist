@@ -1,5 +1,5 @@
 # general info 
-Lost Woods is also known as LW use \[\[Lost Woods]] to link here (remove \\ if you coppy and paste)
+Lost Woods is also known as LW use \[\[Lost Woods]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Kokiri Forest from entrence square

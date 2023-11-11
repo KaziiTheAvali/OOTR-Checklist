@@ -1,5 +1,5 @@
 # general info 
-Lake Hylia is also known as LH use \[\[Lake Hylia]] to link here (remove \\ if you coppy and paste)
+Lake Hylia is also known as LH use \[\[Lake Hylia]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Hyrule Field

@@ -1,5 +1,5 @@
 # general info 
-Forest Temple is also known as Forest Temple use \[\[Forest Temple]] to link here (remove \\ if you coppy and paste)
+Forest Temple is also known as Forest Temple use \[\[Forest Temple]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Sacred Forest Meadows

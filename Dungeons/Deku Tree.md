@@ -1,5 +1,5 @@
 # general info 
-Deku Tree is also known as Deku Tree use \[\[Deku Tree]] to link here (remove \\ if you coppy and paste)
+Deku Tree is also known as Deku Tree use \[\[Deku Tree]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Kokiri

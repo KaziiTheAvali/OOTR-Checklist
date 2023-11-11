@@ -1,5 +1,5 @@
 # general info 
-Bottom Of the well is also known as BOtW use \[\[Bottom Of the well]] to link here (remove \\ if you coppy and paste)
+Bottom Of the well is also known as BOtW use \[\[Bottom Of the well]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Kak

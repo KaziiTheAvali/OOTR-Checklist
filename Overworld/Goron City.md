@@ -1,5 +1,5 @@
 # general info 
-Goron City is also known as GC use \[\[Goron City]] to link here (remove \\ if you coppy and paste)
+Goron City is also known as GC use \[\[Goron City]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Death Mountain Trail

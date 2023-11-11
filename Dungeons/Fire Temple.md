@@ -1,5 +1,5 @@
 # general info 
-Fire Temple is also known as Fire Temple use \[\[Fire Temple]] to link here (remove \\ if you coppy and paste)
+Fire Temple is also known as Fire Temple use \[\[Fire Temple]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Death Mountain Crater

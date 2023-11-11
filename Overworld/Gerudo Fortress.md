@@ -1,5 +1,5 @@
 # general info 
-Gerudo Fortress is also known as GF use \[\[Gerudo Fortress]] to link here (remove \\ if you coppy and paste)
+Gerudo Fortress is also known as GF use \[\[Gerudo Fortress]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 Gerudo Valley

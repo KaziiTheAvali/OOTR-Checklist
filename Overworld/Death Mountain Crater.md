@@ -1,5 +1,5 @@
 # general info 
-Death Mountain Crater is also known as DMC use \[\[Death Mountain Crater]] to link here (remove \\ if you coppy and paste)
+Death Mountain Crater is also known as DMC use \[\[Death Mountain Crater]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Death Mountain Trail
