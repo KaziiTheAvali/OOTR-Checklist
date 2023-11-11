@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3fd0016bb3cc164",
+        "id": "cc822ea1eb084d65",
         "type": "tabs",
         "children": [
           {
-            "id": "28cff31665f38f80",
+            "id": "fab76c1d68d9d503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overworld/Gerudo Fortress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f7208171e59ffd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Water Temple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e971b22eb111af15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Shadow Temple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b9c987a12d96755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spirit Temple.md",
+                "file": "How to use.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirit Temple.md",
+                "file": "How to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirit Temple.md",
+                "file": "How to use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirit Temple.md"
+                "file": "How to use.md"
               }
             }
           }
@@ -183,22 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b9c987a12d96755",
+  "active": "fab76c1d68d9d503",
   "lastOpenFiles": [
+    "Dungeons/Spirit Temple.md",
+    "Dungeons/Ice Cavern.md",
+    "Dungeons/Gerudo Training Grounds.md",
+    "Dungeons/Gannons Castle.md",
+    "Dungeons/Deku Tree.md",
     "Dungeons/Shadow Temple.md",
     "Dungeons/Water Temple.md",
-    "Dungeons/Bottom Of the well.md",
-    "Spirit Temple.md",
-    "Dungeons/Fire Temple.md",
-    "Dungeons/Dodongos cavern.md",
+    "Dungeons/Jabu Jabu.md",
     "Dungeons/Forest Temple.md",
+    "Dungeons/Dodongos cavern.md",
+    "Dungeons/Fire Temple.md",
+    "Dungeons/Bottom Of the well.md",
     "Overworld/Gerudo Fortress.md",
     "Overworld/Hideout.md",
     "Overworld/Wasteland.md",
     "Overworld/Colossus.md",
     "Overworld/Outside Gannon's Castle.md",
-    "Dungeons/Deku Tree.md",
-    "Dungeons/Jabu Jabu.md",
     "Overworld/Market.md",
     "Songs/Songs.md",
     "Songs",
@@ -211,9 +177,6 @@
     "Overworld/Gerudo Vally.md",
     "Overworld/Death Mountain Trail.md",
     "Overworld/Goron City.md",
-    "README.md",
-    "Overworld/Kakarikko Village.md",
-    "Overworld/Hyrule Field.md",
     "map.canvas"
   ]
 }
