@@ -2,7 +2,7 @@
 Forest Temple is also known as Forest Temple use \[\[Forest Temple]] to link here (remove \\ if you copy and paste)
 
 # Locations
-To Sacred Forest Meadows
+To SFM
 To Boss
 From Boss
 Boss Exit

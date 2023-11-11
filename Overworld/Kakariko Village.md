@@ -1,5 +1,5 @@
 # general info 
-Kakarikko Village is also known as Kak use \[\[Kakarikko Village]] to link here (remove \\ if you copy and paste)
+Kakariko Village is also known as Kak use \[\[Kakariko Village]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Hyrule Field

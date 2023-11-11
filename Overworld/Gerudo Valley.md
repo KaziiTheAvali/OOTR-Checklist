@@ -1,5 +1,5 @@
 # general info 
-Gerudo Vally is also known as GV use \[\[Gerudo Vally]] to link here (remove \\ if you copy and paste)
+Gerudo Valley is also known as GV use \[\[Gerudo Valley]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Lake Hylia

@@ -1,5 +1,5 @@
 # general info 
-Lawn Lawn Ranch is also known as LLR use \[\[Lawn Lawn Ranch]] to link here (remove \\ if you copy and paste)
+Lon Lon Ranch is also known as LLR use \[\[Lon Lon Ranch]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Hyrule Field
