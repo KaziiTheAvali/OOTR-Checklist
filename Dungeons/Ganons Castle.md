@@ -1,8 +1,8 @@
 # general info 
-Gannons Castle is also known as Gannons Castle use \[\[Gannons Castle]] to link here (remove \\ if you coppy and paste)
+Ganons Castle is also known as Ganons Castle use \[\[Ganons Castle]] to link here (remove \\ if you coppy and paste)
 
 # Locations
-To Outside Gannons Castle
+To Outside Ganons Castle
 # Checks
 ## Chest
 - [ ] Forest Trial Chest
