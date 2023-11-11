@@ -1,5 +1,5 @@
 # general info 
-Forest Temple is also known as Forest Temple use \[\[Forest Temple]] to link here (remove \\ if you coppy and paste)
+Fire Temple is also known as Fire Temple use \[\[Fire Temple]] to link here (remove \\ if you coppy and paste)
 
 # Locations
 To Death Mountain Crater
@@ -60,4 +60,4 @@ Boss Exit
 - [ ] Hammer Staircase Small Wooden Crate 1
 - [ ] Hammer Staircase Small Wooden Crate 2
 ## Heart Container
-- [ ] Bolbgia Heart
+- [ ] volvagia Heart

@@ -20,139 +20,43 @@
             }
           },
           {
-            "id": "e8095c111bf5b114",
+            "id": "5f7208171e59ffd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overworld/Hideout.md",
+                "file": "Dungeons/Water Temple.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e1ce5cb50cef008",
+            "id": "e971b22eb111af15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overworld/Wasteland.md",
+                "file": "Dungeons/Shadow Temple.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b2c2e6a97d08d73",
+            "id": "1b9c987a12d96755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overworld/Colossus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88fb4b500068b224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overworld/Outside Gannon's Castle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d28604d9178bc74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Deku Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b845f8e5d9c5ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Deku Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe51c9c82bdcc93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Dodongos cavern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6305211c42d23dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Jabu Jabu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "331efc7900147cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Bottom Of the well.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a6506adddccb01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Forest Temple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ac3206d4511b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons/Fire Temple.md",
+                "file": "Spirit Temple.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons/Fire Temple.md",
+                "file": "Spirit Temple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons/Fire Temple.md",
+                "file": "Spirit Temple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons/Fire Temple.md"
+                "file": "Spirit Temple.md"
               }
             }
           }
@@ -279,37 +183,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81ac3206d4511b94",
+  "active": "1b9c987a12d96755",
   "lastOpenFiles": [
-    "Dungeons/Forest Temple.md",
+    "Dungeons/Shadow Temple.md",
+    "Dungeons/Water Temple.md",
+    "Dungeons/Bottom Of the well.md",
+    "Spirit Temple.md",
     "Dungeons/Fire Temple.md",
     "Dungeons/Dodongos cavern.md",
-    "Dungeons/Bottom Of the well.md",
+    "Dungeons/Forest Temple.md",
+    "Overworld/Gerudo Fortress.md",
+    "Overworld/Hideout.md",
+    "Overworld/Wasteland.md",
+    "Overworld/Colossus.md",
+    "Overworld/Outside Gannon's Castle.md",
     "Dungeons/Deku Tree.md",
     "Dungeons/Jabu Jabu.md",
     "Overworld/Market.md",
     "Songs/Songs.md",
     "Songs",
-    "Overworld/Wasteland.md",
     "Overworld/temple of time.md",
     "Overworld/Graveyard.md",
     "How to use.md",
     "Dungeons",
-    "Overworld/Colossus.md",
     "Overworld",
-    "Overworld/Outside Gannon's Castle.md",
     "Overworld/Hyrule Castle.md",
-    "Overworld/Hideout.md",
     "Overworld/Gerudo Vally.md",
-    "Overworld/Gerudo Fortress.md",
     "Overworld/Death Mountain Trail.md",
     "Overworld/Goron City.md",
     "README.md",
     "Overworld/Kakarikko Village.md",
     "Overworld/Hyrule Field.md",
-    "Overworld/Zora's Fountain.md",
-    "Overworld/Zora's Domain.md",
-    "Overworld/Zora River.md",
     "map.canvas"
   ]
 }
