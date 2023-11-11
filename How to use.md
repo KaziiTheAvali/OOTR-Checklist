@@ -2,7 +2,11 @@ This vault is to be opened in obsidion. you will use \[\[]] to connect two locat
 
 i suggest doing \[\[mapname]] room name
 
+
+
 Locations may not be the same name as the spoiler log however should make sence
+
+if a entrence is shown but doesnt actually do anything in the randomizer shout it out in github and i will fix it.
 
 you can use \- \[ ] to find checks. this will make a checkbox like below
 - [ ] <- you will beable to input text here and it will cross off checks.

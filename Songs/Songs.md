@@ -1,0 +1,11 @@
+- [ ] Song From Impa
+- [ ] Song From Malon
+- [ ] Song From Saria
+- [ ] Song From Royal Family
+- [ ] Song From OOT
+- [ ] Song From Windmill
+- [ ] Sheik in Forest
+- [ ] Sheik in Ice Cavern
+- [ ] Sheik at Colossus
+- [ ] Sheik in Kakariko
+- [ ] Shiek at Temple
