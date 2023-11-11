@@ -1,6 +1,6 @@
 This vault is to be opened in obsidion. you will use \[\[]] to connect two locations (file names) together. connecting the two locations like this will connect them in the graph view 
 
-
+i suggest doing \[\[mapname]] room name
 
 Locations may not be the same name as the spoiler log however should make sence
 
