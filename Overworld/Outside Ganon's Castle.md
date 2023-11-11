@@ -1,8 +1,8 @@
 # general info 
-Outside Gannon's Castle is also known as OGC use \[\[Outside Gannon's Castle]] to link here (remove \\ if you coppy and paste)
+Outside Ganon's Castle is also known as OGC use \[\[Outside Ganon's Castle]] to link here (remove \\ if you coppy and paste)
 # Locations
 ## External Maps
-To Inside Gannon's Castle
+To Inside Ganon's Castle
 ## internal maps
 To Great Fairy's Fountain
 from Grate Fairy's Fountain
