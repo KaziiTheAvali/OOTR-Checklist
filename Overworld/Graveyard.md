@@ -1,5 +1,5 @@
 # general info 
-Graveyard is also known as Graveyard use \[\[Graveyard]] to link here (remove \\ if you coppy and paste)
+Graveyard is also known as Graveyard use \[\[Graveyard]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 Kakariko Village

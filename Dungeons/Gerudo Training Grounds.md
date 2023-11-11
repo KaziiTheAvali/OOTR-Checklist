@@ -1,5 +1,5 @@
 # general info 
-Gerudo Training Grounds is also known as Gerudo Training Grounds use \[\[Gerudo Training Grounds]] to link here (remove \\ if you coppy and paste)
+Gerudo Training Grounds is also known as Gerudo Training Grounds use \[\[Gerudo Training Grounds]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Gerudo's Fortress

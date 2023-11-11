@@ -1,5 +1,5 @@
 # general info 
-Zorua's Domain is also known as ZD use \[\[Zora's Domain]] to link here (remove \\ if you coppy and paste)
+Zorua's Domain is also known as ZD use \[\[Zora's Domain]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Zorua's River

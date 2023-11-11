@@ -1,5 +1,5 @@
 # general info 
-Hyrule Field is also known as HF use \[\[Hyrule Field]] to link here (remove \\ if you coppy and paste)
+Hyrule Field is also known as HF use \[\[Hyrule Field]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Lost woods

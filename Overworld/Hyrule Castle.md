@@ -1,5 +1,5 @@
 # general info 
-Hyrule Castle is also known as HC use \[\[Hyrule Castle]] to link here (remove \\ if you coppy and paste)
+Hyrule Castle is also known as HC use \[\[Hyrule Castle]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Market

@@ -1,5 +1,5 @@
 # general info 
-Dodongos cavern is also known as Dodongos cavern use \[\[Dodongos cavern]] to link here (remove \\ if you coppy and paste)
+Dodongos cavern is also known as Dodongos cavern use \[\[Dodongos cavern]] to link here (remove \\ if you copy and paste)
 
 # Locations
 Death Mountain Trail

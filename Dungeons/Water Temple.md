@@ -1,5 +1,5 @@
 # general info 
-Water Temple is also known as Water Temple use \[\[Water Temple]] to link here (remove \\ if you coppy and paste)
+Water Temple is also known as Water Temple use \[\[Water Temple]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Lake Hylea

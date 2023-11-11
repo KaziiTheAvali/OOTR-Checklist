@@ -1,5 +1,5 @@
 # general info 
-Spirit Temple is also known as Spirit Temple use \[\[Spirit Temple]] to link here (remove \\ if you coppy and paste)
+Spirit Temple is also known as Spirit Temple use \[\[Spirit Temple]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Desert Colossus From Entrence

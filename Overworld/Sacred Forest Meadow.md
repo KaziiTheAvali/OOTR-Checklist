@@ -1,5 +1,5 @@
 # general info 
-Sacred Forest Meadows is also known as SFM use \[\[Sacred Forest Meadows]] to link here (remove \\ if you coppy and paste)
+Sacred Forest Meadow is also known as SFM use \[\[Sacred Forest Meadow]] to link here (remove \\ if you copy and paste)
 ## External Maps
 To Lost Woods
 To Forest Temple

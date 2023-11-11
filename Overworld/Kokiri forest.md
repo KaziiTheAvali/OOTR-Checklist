@@ -1,5 +1,5 @@
 # general info 
-Kokiri forest is also known as KF use \[\[Kokiri forest]] to link here (remove \\ if you coppy and paste)
+Kokiri forest is also known as KF use \[\[Kokiri forest]] to link here (remove \\ if you copy and paste)
 # Locations
 
 ## External Maps

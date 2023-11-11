@@ -1,5 +1,5 @@
 # general info 
-Market is also known as Market use \[\[Market]] to link here (remove \\ if you coppy and paste)
+Market is also known as Market use \[\[Market]] to link here (remove \\ if you copy and paste)
 ## External Maps
 To Hyrule Field (from market entrence)
 To Hyrule Castle

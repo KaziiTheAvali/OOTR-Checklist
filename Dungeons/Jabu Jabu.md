@@ -1,5 +1,5 @@
 # general info 
-Jabu Jabu is also known as Jabu Jabu use \[\[Jabu Jabu]] to link here (remove \\ if you coppy and paste)
+Jabu Jabu is also known as Jabu Jabu use \[\[Jabu Jabu]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Zorua's Fountain

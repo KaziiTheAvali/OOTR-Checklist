@@ -1,5 +1,5 @@
 # general info 
-Ganons Castle is also known as Ganons Castle use \[\[Ganons Castle]] to link here (remove \\ if you coppy and paste)
+Ganons Castle is also known as Ganons Castle use \[\[Ganons Castle]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Outside Ganons Castle

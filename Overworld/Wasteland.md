@@ -1,5 +1,5 @@
 # general info 
-Wasteland is also known as Wasteland use \[\[Wasteland]] to link here (remove \\ if you coppy and paste)
+Wasteland is also known as Wasteland use \[\[Wasteland]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Gerudo's Fortress

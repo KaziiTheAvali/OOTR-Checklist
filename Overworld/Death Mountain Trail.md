@@ -1,5 +1,5 @@
 # general info 
-Death Mountain Trail is also known as DMT use \[\[Death Mountain Trail]] to link here (remove \\ if you coppy and paste)
+Death Mountain Trail is also known as DMT use \[\[Death Mountain Trail]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Kak

@@ -1,5 +1,5 @@
 # general info 
-Hideout is also known as Hideout use \[\[Hideout]] to link here (remove \\ if you coppy and paste)
+Hideout is also known as Hideout use \[\[Hideout]] to link here (remove \\ if you copy and paste)
 # Locations
 ## External Maps
 To Gerudo Fortress from Wooden Beam Room upper

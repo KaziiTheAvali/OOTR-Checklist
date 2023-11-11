@@ -1,5 +1,5 @@
 # general info 
-Shadow Temple is also known as Shadow Temple use \[\[Shadow Temple]] to link here (remove \\ if you coppy and paste)
+Shadow Temple is also known as Shadow Temple use \[\[Shadow Temple]] to link here (remove \\ if you copy and paste)
 
 # Locations
 To Graveyard
