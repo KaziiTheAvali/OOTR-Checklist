@@ -17,6 +17,8 @@ To Deku Theater
 From Deku Theater
 
 # checks
+## Chests
+- [ ] near shortcut chest
 ## Deku Scrub Sales
 - [ ] Deku Scrub Near Bridge
 - [ ] Deku Scrub Near Deku Theater Left
